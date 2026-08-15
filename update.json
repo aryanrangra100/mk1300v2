@@ -1,0 +1,138 @@
+{
+    "6d7b_dcfa": {
+        "version": 101,
+        "file": "3key_v101.bin"
+    },
+    "6d7c_dcfb": {          
+        "version": 101,
+        "file": "4key_v101.bin"
+    },
+    "6d7d_dcfc": {
+        "version": 101,
+        "file": "16key_v101.bin"
+    },
+    "6d7e_dcfd": {
+        "version": 101,
+        "file": "15key_v101.bin"
+    },
+    "6d7f_dcfe": {
+        "version": 101,
+        "file": "9key_v101.bin"
+    },
+    "6d80_dc81": {
+        "version": 101,
+        "file": "6key_v101.bin"
+    },
+    "6d81_dc82": {
+        "version": 101,
+        "file": "8key_v101.bin"
+    },
+    "6d82_dc83": {
+        "version": 101,
+        "file": "10key_v101.bin"
+    },
+    "6d83_dc84": {
+        "version": 101,
+        "file": "12key_v101.bin"
+    },
+    "6d83_dc85": {
+        "version": 101,
+        "file": "12keyn0sd_v101.bin"
+    },
+    "6d83_dcfa": {
+        "version": 101,
+        "file": "6keyhub_v101.bin"
+    },
+    "9a9a_baba": {
+        "version": 101,
+        "file": "version_101.bin"
+    },
+    "68bd_dcfc": {
+        "version": 101,
+        "file": "version_101.bin"
+    },
+    "342d_e451": {
+        "version": 101,
+        "file": "version_101.bin"
+    },
+    "342d_e453": {
+        "version": 101,
+        "file": "version_101.bin"
+    },
+    "0816_246d": {
+        "version": 101,
+        "file": "3keysd_v101.bin"
+    },
+    "0816_246e": {
+        "version": 101,
+        "file": "4keysd_v101.bin"
+    },
+    "0816_246f": {
+        "version": 101,
+        "file": "6keysd_v101.bin"
+    },
+    "0816_2470": {
+        "version": 101,
+        "file": "8keysd_v101.bin"
+    },
+    "0816_2471": {
+        "version": 101,
+        "file": "9keysd_v101.bin"
+    },
+    "0816_2472": {
+        "version": 101,
+        "file": "10keysd_v101.bin" 
+    },
+    "0816_2473": {
+        "version": 101,
+        "file": "12keysd_v101.bin"
+    },
+    "0816_2474": {
+        "version": 101,
+        "file": "15keysd_v101.bin"
+    },
+    "0816_2475": {
+        "version": 101,
+        "file": "16keysd_v101.bin"
+    },
+    "0816_2476": {
+        "version": 101,
+        "file": "16keyhubn4sd_v101.bin"
+    },
+    "0816_2477": {
+        "version": 101,
+        "file": "16keyhubn2sd_v101.bin"
+    },
+    "0816_2478": {
+        "version": 101,
+        "file": "12keyhubn3sd_v101.bin"
+    },
+    "0816_2479": {
+        "version": 101,
+        "file": "6keyhubsd_v101.bin"
+    },
+    "0817_d18a": {
+        "version": 101,
+        "file": "16keyhubn4_v101.bin"
+    },
+    "0817_dcfb": {
+        "version": 101,
+        "file": "rfk98_v101.bin"
+    },
+    "0818_d18a": {
+        "version": 101,
+        "file": "16keyhubn2_v101.bin"
+    },
+    "0818_dcfa": {
+        "version": 101,
+        "file": "version_101.bin"
+    },
+    "0818_dcfb": {
+        "version": 101,
+        "file": "version_101.bin"
+    },
+    "0819_d18a": {
+        "version": 101,
+        "file": "12keyhubn3_v101.bin"
+    }
+}
